@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 experience in the finance and technology sectors. Born in California and grew up in Florida & California. Los Angeles, San Francisco, and Miami are all home to me.  Since graduating from college (Undergraduate - Florida State University & Masters - University of Virginia), I've worked in NYC and Miami. 
+I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 experience in the finance and technology sectors. Born in California and grew up in Florida & California. Los Angeles, San Francisco, and Miami are all home to me.  Since graduating from college (Undergraduate - Florida State University & Masters - University of Virginia), I've worked in NYC and Miami. Go Noles & Go Hoos! 
 
 Thoroughly enjoy new challenges & experiences; especially in a team environment. As a result of my athletic and work experiences, I've always embraced the concept of we/team. Taking on challenges, helping out fellow team members, and seeing everyone succeed is a true passion of mine. All about building a strong, positive culture.  
 
