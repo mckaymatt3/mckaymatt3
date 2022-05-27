@@ -11,7 +11,7 @@ Proficient with languages such as JavaScript, React, Ruby, Rails, SQL, HTML, and
 - 🔭 I’m currently looking to join a company and help that team achieve its goals (and have a little fun along the way too). 
 - 🌱 I’m currently focusing on refining my skills with JavaScript & learning Python shortly.  
 - 💬 Ask me about music, sports (especially the Miami Heat), coding, comedy, dream job/house/car, favorite concert/movie, favorite (or least favorite) dad joke, and 3 items you'd take with you to a deserted island.      
-- ⚡ Fun fact: 🔥 Let's gooo Heatttt (in 6) 🔥 
+- ⚡ Fun fact: 🔥 Let's gooo Heatttt (in 7) 🔥 
 - 📫 How to reach me: https://www.linkedin.com/in/matt-mckay-cpa/
 
 <!--
